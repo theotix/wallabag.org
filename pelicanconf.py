@@ -20,7 +20,7 @@ SOCIAL = (('Github', 'https://github.com/wallabag/wallabag'),
           ('Facebook', 'https://facebook.com/wallabag'),
           ('Google+', 'https://plus.google.com/+WallabagOrg'),
           ('RSS', 'https://www.wallabag.org/feeds/all.atom.xml'),
-          )
+          ('Diaspora', 'https://framasphere.org/u/wallabag'))
 
 MENUITEMS = (('what is wallabag?', '/'),
              ('Features', '/pages/features.html'),
