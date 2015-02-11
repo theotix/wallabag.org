@@ -25,7 +25,6 @@ You love wallabag and you want to help us? There are many ways. You can make don
 * [via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9UBA65LG3FX9Y&lc=gb)
 * [via Carrot](https://secure.carrot.org/pg/37952036#/)
 
-You can also contribute to the project:
+## Discuss with us!
 
-* by writing [the documentation](http://doc.wallabag.org)
-* by translating wallabag [into your language](https://github.com/wallabag/wallabag/blob/dev/TRANSLATION.md)
+We are on [gitter](https://gitter.im/wallabag/wallabag). You can also subscribe to our mailing-lists: [wallabag-users](http://framalistes.org/sympa/info/wallabag-users) and [wallabag-dev](http://framalistes.org/sympa/info/wallabag-dev). 
