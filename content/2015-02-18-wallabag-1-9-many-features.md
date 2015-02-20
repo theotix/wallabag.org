@@ -28,7 +28,7 @@ Now for some little features :
 
 * Random article : Don't know what to read ? Just click on the dices to get one of your unread articles.
 * Refetch article : Some article has changed it's content ? Just refetch it.
-Import tags : You can now import tags from your Pocket and wallabag exported files.
+* Import tags : You can now import tags from your Pocket and wallabag exported files.
 * Build-in documentation : If you have wallabag locally installed and are offline for the moment. Just a reminder to tell you that online documentation is available at [http://doc.wallabag.org/](http://doc.wallabag.org)
 * Tag an article when saving it. Instead of saving an article, accessing it and setting the tags from here, just click on the tag icon next to the url field before hitting the Save button. At the moment, it is possible only to do this from the web interface, but it could come to some apps or extensions.
 
