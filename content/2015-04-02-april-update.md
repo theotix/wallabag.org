@@ -34,4 +34,4 @@ We may attend to the 16th [Libre Software Meeting](https://2015.rmll.info/?lang=
 
 Also, Pyves created [cool slides](https://framabag.org/cquoi/#/) to present our wallabag hosted service, [Framabag](https://framabag.org/).
 
-And finally, we already had wallabag integrated inside [YunoHost](https://yunohost.org) ([source](https://github.com/abeudin/wallabag_ynh)) and [ArkOS](http://arkos.io/) ([source](https://github.com/cznweb/arkos-applications/tree/master/wallabag)), but we're now hoping to get wallabag inside [CozyCloud](http://cozy.io). We'll also try to have [OwnCloud](https://owncloud.org/).
+And finally, we already had wallabag integrated inside [YunoHost](https://yunohost.org) ([source](https://github.com/abeudin/wallabag_ynh)) and [ArkOS](http://arkos.io/) ([source](https://github.com/cznweb/arkos-applications/tree/master/wallabag)), but we're now hoping to get wallabag inside [CozyCloud](http://cozy.io). We'll also try to have it [OwnCloud](https://owncloud.org/) too.
