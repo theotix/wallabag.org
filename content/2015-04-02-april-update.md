@@ -12,6 +12,8 @@ Now, talking about some features, I know we said we wouldn't add any more to 1.x
 
 I'm happy to announce next versions will feature *previous and next navigation buttons* just next to the already existing "return to top" one with baggy theme. Default theme and inherited themes will have those buttons in the existing toolbar. 
 
+![buttons](/images/wallabag_navigate_arrows.png)
+
 You will also be able to navigate through articles by using your *right and left keyboard* arrows on desktop, or *swipe right or left* on touchscreen devices. Maybe we could enable vim-style navigation (with `hjkl`) in the future (there's [a poll](https://framadate.org/u6k7qlcmwvdr8df6), by the way).
 
 For an increased usability, we also added a *Mark as read and go to next button*, when you've finished to read an article and do want to go for the next time directly.
@@ -30,6 +32,6 @@ Most of the job on wallabag v2 is currently done by @j0k3r, so now you know who 
 ## Other news
 We may attend to the 16th [Libre Software Meeting](https://2015.rmll.info/?lang=en) from 2015/07/04 to 2015/07/10 in Beauvais, France. Comme and see us, we'll have [stickers](https://twitter.com/TcitWorld/status/544127704489275392/photo/1) !
 
-Also, someone created [cool slides](https://framabag.org/cquoi/#/) to present our wallabag hosted service, [Framabag](https://framabag.org/).
+Also, Pyves created [cool slides](https://framabag.org/cquoi/#/) to present our wallabag hosted service, [Framabag](https://framabag.org/).
 
 And finally, we already had wallabag integrated inside [YunoHost](https://yunohost.org) ([source](https://github.com/abeudin/wallabag_ynh)) and [ArkOS](http://arkos.io/) ([source](https://github.com/cznweb/arkos-applications/tree/master/wallabag)), but we're now hoping to get wallabag inside [CozyCloud](http://cozy.io). We'll also try to have [OwnCloud](https://owncloud.org/).
