@@ -1,4 +1,4 @@
-Title: what is wallabag? 
+Title: what is wallabag?
 save_as: index.html
 
 <p style="text-align:center" markdown="1">
@@ -27,4 +27,4 @@ You love wallabag and you want to help us? There are many ways. You can make don
 
 ## Discuss with us!
 
-We are on [gitter](https://gitter.im/wallabag/wallabag). You can also subscribe to our mailing-lists: [wallabag-users](http://framalistes.org/sympa/info/wallabag-users) and [wallabag-dev](http://framalistes.org/sympa/info/wallabag-dev). 
+We are on [gitter](https://gitter.im/wallabag/wallabag) or on irc.freenode.net #wallabag and #wallabag-fr: come discuss with us!
