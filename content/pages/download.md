@@ -1,7 +1,7 @@
 Title: Download wallabag 
 
-* Last version: **1.9.0**, released on February 19th, 2015 (md5 hash: `2f19bf2abfa71643ef849f3ca45a21e8`).
-* [Blog post about this version]({filename}/2015-02-18-wallabag-1-9-many-features.md)
+* Last version: **1.9.1**, released on August 3rd, 2015 (md5 hash: `1c26891e9d912b11d8e35a0e3c0c2b40`).
+* [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
 * [Download it here](http://wllbg.org/latest)
 
 You can also install wallabag in one click [thanks to Softaculous](http://www.softaculous.com/apps/others/wallabag) or [via ampps](http://www.ampps.com/apps/others/wallabag).
@@ -16,6 +16,8 @@ You have to add wallabag in your toolbar. Then, just click on this icon to save 
 * [extension for Chrome](https://chrome.google.com/webstore/detail/wallabag/bepdcjnnkglfjehplaogpoonpffbdcdj) – developed by Jonathan Gaulupeau.
 You have to add wallabag in your toolbar. Then, just click on this icon to wallabag a new link.  
 *[source code](https://github.com/wallabag/chrome-ext)*
+* application for FirefoxOS – developed by freddyb.  
+*[source code](https://github.com/wallabag/wallabag-fxos)*
 * application for Android ([f-droid](https://f-droid.org/app/fr.gaulupeau.apps.InThePoche) and [google play](https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche)) – developed by Jonathan Gaulupeau.
 This extension adds a wallabag icon in the share menu.  
 *[source code](https://github.com/wallabag/android-app)*

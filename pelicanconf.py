@@ -54,7 +54,7 @@ HIDE_SITENAME = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
-WALLABAG_VERSION = "1.9.0"
+WALLABAG_VERSION = "1.9.1"
 
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'

@@ -7,7 +7,7 @@ Title: Features
 * You can easily migrate from other private services: welcome to you, Pocket / Readability or Instapaper users!
 * You like an article? Share it by email, on twitter or in your shaarli
 * Because we are increasingly mobile, wallabag fits all your devices
-* Saving a link is so easy because we provide you with many tools: extensions for Chrome and Firefox, iOS, Android and Windows Phone application, a bookmarklet, a simple field in your config webpage
+* Saving a link is so easy because we provide you with many tools: extensions for Chrome and Firefox, iOS, Android, Firefox OS and Windows Phone application, a bookmarklet, a simple field in your config webpage
 * RSS feeds allow you to read your saved links in your RSS aggregator
 * You can set tags to your entries
 * wallabag is multilingual: french, english, spanish, german, italian, russian, persian, czech, polish, ukrainian and slovenian
