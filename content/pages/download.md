@@ -1,6 +1,6 @@
 Title: Download wallabag 
 
-* Last version: **1.9.1**, released on August 3rd, 2015 (md5 hash: `1c26891e9d912b11d8e35a0e3c0c2b40`).
+* Last version: **1.9.1**, released on August 3rd, 2015 (md5 hash: `79269248d038569a49677366dae5eb77`).
 * [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
 * [Download it here](http://wllbg.org/latest)
 
