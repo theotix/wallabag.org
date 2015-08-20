@@ -24,6 +24,7 @@ SOCIAL = (('Github', 'https://github.com/wallabag/wallabag'),
 
 MENUITEMS = (('what is wallabag?', '/'),
              ('Features', '/pages/features.html'),
+             ('Roadmap', '/pages/roadmap.html'),
              ('Downloads', '/pages/download-wallabag.html'),
              ('Documentation', 'http://doc.wallabag.org'),
              ('Need help?', 'http://support.wallabag.org'),
