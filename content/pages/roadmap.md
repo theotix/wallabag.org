@@ -11,7 +11,7 @@ For each feature, an issue on Github is available with explanations of our needs
 * [core] remove tags from an entry [#1377](https://github.com/wallabag/wallabag/issues/1377)
 * [core] assign multiple tags at once [#1376](https://github.com/wallabag/wallabag/issues/1376)
 * [core] public registration
-* [core] [API] oAuth implementation
+* [core] [API] oAuth implementation [#795](https://github.com/wallabag/wallabag/issues/795)
 * [core] admin interface [#1346](https://github.com/wallabag/wallabag/issues/1346)
 * [deployment] Travis CI job to deploy Framabag with Capistrano
 * [core] entries export (PDF, json, ePub, mobi, txt, html)
