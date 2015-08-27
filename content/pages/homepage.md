@@ -1,30 +1,16 @@
 Title: what is wallabag?
+Menulabel: Homepage
 save_as: index.html
+exclude: True
+sortorder: 10
 
-<p style="text-align:center" markdown="1">
-    ![wallabag](/images/logo.png)
-</p>
-
-wallabag is a **self hostable application for saving web pages**. Unlike other services, wallabag is free (as in freedom) and open source.
+<div class="jumbotron" markdown="1">
+wallabag is a **self hostable application for saving web pages**. Unlike other services, wallabag is free (as in freedom) and [open source](https://github.com/wallabag/wallabag/blob/master/COPYING.md).
 
 With this application you will not miss content anymore. **Click, save, read it when you want**. It saves the content you select so that you can read it when you have time.
+<p><a class="btn btn-success btn-lg" href="/pages/features.html">Features</a> <a class="btn btn-default btn-lg" href="/pages/try-wallabag.html">Try it</a> <a class="btn btn-info btn-lg" href="https://www.framabag.org/">Register</a></p>
+</div>
 
-## How it works
+## wallabag in cartoon
 
-Thanks to the bookmarklet or [third-party applications](/pages/download-wallabag.html), you save an article to your wallabag to read it later. Then, when you open your wallabag, **you can comfortably read your articles**.
-
-## How to use wallabag
-
-There are two ways to use wallabag: [you can install it on your web server](/pages/download-wallabag.html) or you can [create a free account at Framabag](https://www.framabag.org/). Framabag is a [<span style="font-weight: bold; color: #6a5687;">Frama</span><span style="font-weight: bold; color: #eb7e41;">soft</span>](http://www.framasoft.net) service.
-
-## Help us!
-
-You love wallabag and you want to help us? There are many ways. You can make donations:
-
-* [via Flattr](https://flattr.com/thing/1265480/poche-a-read-it-later-open-source-system)
-* [via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9UBA65LG3FX9Y&lc=gb)
-* [via Carrot](https://secure.carrot.org/pg/37952036#/)
-
-## Discuss with us!
-
-We are on [gitter](https://gitter.im/wallabag/wallabag) or on irc.freenode.net #wallabag and #wallabag-fr: come discuss with us!
+<p><iframe src="https://framabag.org/cquoi/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">Your browser doesn't support iframes</iframe></p>

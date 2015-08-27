@@ -1,12 +1,32 @@
-Title: Download wallabag 
+Title: Download wallabag
+Menulabel: Downloads
+sortorder: 30
 
-* Last version: **1.9.1**, released on August 3rd, 2015 (md5 hash: `79269248d038569a49677366dae5eb77`).
+## wallabag 1.x (stable branch)
+
+* Last version: **1.9.1** (2015/08/03).
 * [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
-* [Download it here](http://wllbg.org/latest)
+* [Need help about installation?]({filename}support.md)
 
-You can also install wallabag in one click [thanks to Softaculous](http://www.softaculous.com/apps/others/wallabag) or [via ampps](http://www.ampps.com/apps/others/wallabag).
+ <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
+ (md5 hash: 79269248d038569a49677366dae5eb77)
 
-*You can download the [previous releases here](https://github.com/wallabag/wallabag/releases). Be careful, these versions are no more maintained.*
+## wallabag 2.x
+
+<div class="alert alert-dismissible alert-warning">
+  <h4>Be careful</h4>
+  <p>This version is still in developpement and is very unstable. If you want to use wallabag in production, please download wallabag 1.9.</p>
+</div>
+
+ <a class="btn btn-info btn-lg right" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-alpha-0</a>
+
+### Installation of wallabag 2.x
+
+    git clone https://github.com/wallabag/wallabag.git -b v2
+    cd wallabag
+    composer install
+    php app/console wallabag:install
+    php app/console server:run
 
 ## Third-party applications
 

@@ -1,9 +1,29 @@
 Title: Roadmap
+sortorder: 40
 
-If you want to help us on wallabag v2, here are some features to implement.  
-For each feature, an issue on Github is available with explanations of our needs.
+## wallabag v2.0.0-alpha
+
+<div class="progress">
+  <div class="progress-bar progress-bar-success" style="width: 95%"></div>
+</div>
+
+* [core] login / logout
+* [core] RESTful API
+* [core] save a new link
+* [core] new design
+* [core] mark an article as read, as favorite, delete it
+* [core] change configuration (theme, items per page, language)
+* [core] change user information (username, name, email, password)
+* [core] create new user
+* [core] tags
+* [core] edit entry (title, visibility)
+* [core] filters on domain name, reading time, creation date, etc.
 
 ## wallabag v2.0.0
+
+<div class="progress">
+  <div class="progress-bar progress-bar-success" style="width: 50%"></div>
+</div>
 
 * [wallabag.org] new website
 * [doc] user documentation [#1359](https://github.com/wallabag/wallabag/issues/1359)
@@ -24,6 +44,10 @@ For each feature, an issue on Github is available with explanations of our needs
 
 ## wallabag v2.1.0
 
+<div class="progress">
+  <div class="progress-bar progress-bar-success" style="width: 10%"></div>
+</div>
+
 * [core] sync read position between web app and clients [#1336](https://github.com/wallabag/wallabag/issues/1336)
 * [API] implement filters [#1313](https://github.com/wallabag/wallabag/issues/1313)
 * [core] store entry language [#1333](https://github.com/wallabag/wallabag/issues/1333)
@@ -32,6 +56,10 @@ For each feature, an issue on Github is available with explanations of our needs
 * [core] delete my account
 
 ## wallabag v2.2.0
+
+<div class="progress">
+  <div class="progress-bar progress-bar-success" style="width: 0%"></div>
+</div>
 
 * [core] plugin system
 * [plugin] export data on cloud service
