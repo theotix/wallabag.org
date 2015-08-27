@@ -73,8 +73,6 @@ We published [a roadmap for wallabag 2.0]({filename}roadmap.md), don't forget to
 
 ![article in wallabag](/images/screenshots/article.png)
 
-![article on smartphone](/images/screenshots/article_mobile.png)
-
 ![filters](/images/screenshots/filters.png)
 
 ![date filter](/images/screenshots/date_filter.png)

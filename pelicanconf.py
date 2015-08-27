@@ -4,12 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Nicolas L\u0153uillet'
 SITENAME = u'wallabag'
-SITEURL = 'http://localhost:8080'
-#SITEURL = 'https://www.framabag.org/wllbg'
 
 PATH = 'content'
 
-WARNING_MESSAGE = u'30/09/2015: <strong>Welcome on our new website!</strong> We are very proud to announce the release of wallabag 2.0. <a href="/blog/2015/09/30/wallabag-v2-alpha-finally" class="alert-link">Please read our blog post</a>.'
+#WARNING_MESSAGE = u'30/09/2015: <strong>Welcome on our new website!</strong> We are very proud to announce the release of wallabag 2.0. <a href="/blog/2015/09/30/wallabag-v2-alpha-finally" class="alert-link">Please read our blog post</a>.'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -18,7 +16,7 @@ DISPLAY_PAGES_ON_MENU = True
 ARTICLE_URL = '{slug}'
 
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'search')
-# SITEMAP_SAVE_AS = 'sitemap.xml'
+SITEMAP_SAVE_AS = 'sitemap.xml'
 
 BANNER = 'images/books.jpg'
 BANNER_ALL_PAGES = True

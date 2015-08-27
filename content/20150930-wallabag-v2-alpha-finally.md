@@ -2,6 +2,7 @@ date: 2015-09-30 20:00:00+00:00
 slug: wallabag-v2-alpha-finally
 title: wallabag 2.0.0-alpha, finally
 tags: v2, website
+Status: draft
 
 **wallabag is a read-it-later application**. Its main advantage it's open source. You know what we do with your data: nothing!
 

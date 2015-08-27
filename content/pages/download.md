@@ -11,23 +11,6 @@ sortorder: 30
  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
  (md5 hash: 79269248d038569a49677366dae5eb77)
 
-## wallabag 2.x
-
-<div class="alert alert-dismissible alert-warning">
-  <h4>Be careful</h4>
-  <p>This version is still in developpement and is very unstable. If you want to use wallabag in production, please download wallabag 1.9.</p>
-</div>
-
- <a class="btn btn-info btn-lg right" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-alpha-0</a>
-
-### Installation of wallabag 2.x
-
-    git clone https://github.com/wallabag/wallabag.git -b v2
-    cd wallabag
-    composer install
-    php app/console wallabag:install
-    php app/console server:run
-
 ## Third-party applications
 
 * [extension for Firefox](https://addons.mozilla.org/firefox/addon/wallabag/) – developed by Jonathan Gaulupeau.
