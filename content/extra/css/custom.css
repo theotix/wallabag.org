@@ -1,0 +1,11 @@
+#banner {
+    padding: 85px 0;
+}
+
+#banner h1 {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.entry-content {
+  font-size: 18px;
+}

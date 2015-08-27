@@ -1,12 +1,15 @@
-Title: Download wallabag 
+Title: Download wallabag
+Menulabel: Downloads
+sortorder: 30
 
-* Last version: **1.9.1**, released on August 3rd, 2015 (md5 hash: `79269248d038569a49677366dae5eb77`).
+## wallabag 1.x (stable branch)
+
+* Last version: **1.9.1** (2015/08/03).
 * [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
-* [Download it here](http://wllbg.org/latest)
+* [Need help about installation?]({filename}support.md)
 
-You can also install wallabag in one click [thanks to Softaculous](http://www.softaculous.com/apps/others/wallabag) or [via ampps](http://www.ampps.com/apps/others/wallabag).
-
-*You can download the [previous releases here](https://github.com/wallabag/wallabag/releases). Be careful, these versions are no more maintained.*
+ <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
+ (md5 hash: 79269248d038569a49677366dae5eb77)
 
 ## Third-party applications
 
