@@ -13,16 +13,16 @@ All the amounts below are in euro.
     <tr>
       <th>Flattr</th>
       <th>Paypal</th>
-      <th>Patreon</th>
+      <th>Bountysource</th>
       <th>Total</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>315,94</td>
-      <td>373,86</td>
-      <td>0</td>
-      <td>689,80</td>
+      <td>315,94 (627 donations)</td>
+      <td>373,86 (37 donations)</td>
+      <td>3,50 (1 donation)</td>
+      <td>693,30</td>
     </tr>
   </tbody>
 </table>
@@ -35,7 +35,7 @@ All the amounts below are in euro.
       <th>Month</th>
       <th>Flattr</th>
       <th>Paypal</th>
-      <th>Patreon</th>
+      <th>Bountysource</th>
     </tr>
   </thead>
   <tbody>
@@ -43,7 +43,7 @@ All the amounts below are in euro.
       <td>08/2015</td>
       <td>14,75</td>
       <td>42,39</td>
-      <td>N/A</td>
+      <td>3,50</td>
     </tr>
     <tr>
       <td>07/2015</td>
