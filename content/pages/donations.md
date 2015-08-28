@@ -2,7 +2,7 @@ Title: Donations
 Menulabel: Donate
 sortorder: 50
 
-Because this project take so much time (development, support, maintenance, etc.), you can thank us with a donation.
+Because this project take so much time (development, support, maintenance, etc.) and because we also need money (domain names, emailing, etc.), you can thank us with a donation.
 
 You can have a look [to the donations archive]({filename}donations-archive.md).
 
