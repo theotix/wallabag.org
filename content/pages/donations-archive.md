@@ -22,7 +22,7 @@ All the amounts below are in euro.
       <td>327,08 (650 donations)</td>
       <td>390,24 (41 donations)</td>
       <td>3,50 (1 donation)</td>
-      <td>696,91</td>
+      <td>717,32</td>
     </tr>
   </tbody>
 </table>
