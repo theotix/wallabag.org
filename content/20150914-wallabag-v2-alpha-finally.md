@@ -20,6 +20,7 @@ I'm very happy with this new big step in wallabag's life: the first release of w
 ## Features already implemented
 
 Here are the main features already implemented:
+
 * a REST API ([you can have a look to the documentation](http://v2.wallabag.org/api/doc))
 * authorization via oAuth2
 * a new default theme, called `material`
