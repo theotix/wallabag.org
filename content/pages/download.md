@@ -11,6 +11,15 @@ sortorder: 30
  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
  (md5 hash: 79269248d038569a49677366dae5eb77)
 
+ ## wallabag 2.x (very unstable branch)
+
+ * Last version: **2.0.0-alpha.0** (2015/09/14).
+ * [Blog post about this version]({filename}/20150914-wallabag-v2-alpha-finally.md)
+ * [Need help about installation?]({filename}support.md)
+
+  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-alpha.0</a><br />
+  (md5 hash: 891cd803d9c4e73c5c5a5f9c3020b91e)
+
 ## Third-party applications
 
 * [extension for Firefox](https://addons.mozilla.org/firefox/addon/wallabag/) – developed by Jonathan Gaulupeau.
