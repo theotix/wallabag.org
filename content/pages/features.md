@@ -67,7 +67,7 @@ We published [a roadmap for wallabag 2.0]({filename}roadmap.md), don't forget to
 * You can flattr flattrable articles directly from your wallabag
 * You want to retrieve your wallabag data? Hey, remember, wallabag is open source, you can export it
 
-## Screenshots
+## Screenshots for v2
 
 ![wallabag homepage](/images/screenshots/homepage.png)
 
