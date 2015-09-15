@@ -8,8 +8,8 @@ We have two demonstration website, one for wallabag 1.9, one for wallabag 2.0 (s
 
 You can [try this version here](http://demo.wallabag.org).
 
-* login: wallabag
-* password: wallabag
+* login: poche
+* password: poche
 
 
 ## wallabag 2.0 (very unstable version)
