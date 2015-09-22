@@ -20,9 +20,9 @@ All the amounts below are in euro.
   <tbody>
     <tr>
       <td>327,08 (650 donations)</td>
-      <td>390,94 (42 donations)</td>
+      <td>400,35 (43 donations)</td>
       <td>3,50 (1 donation)</td>
-      <td>718,02</td>
+      <td>730,93</td>
     </tr>
   </tbody>
 </table>
@@ -42,7 +42,7 @@ All the amounts below are in euro.
       <tr>
       <td>09/2015</td>
       <td>11,14</td>
-      <td>13,47</td>
+      <td>22,88</td>
       <td>N/A</td>
     </tr>
     <tr>
