@@ -21,7 +21,7 @@ We created [a ticket on github with our needs](https://github.com/wallabag/walla
 
 ## Android
 
-<span class="label label-default">Java</span> <a href=https://github.com/wallabag/android-app">wallabag/android-app</a>
+<span class="label label-default">Java</span> <a href="https://github.com/wallabag/android-app">wallabag/android-app</a>
 
 ## Firefox OS
 
