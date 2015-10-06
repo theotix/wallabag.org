@@ -11,7 +11,7 @@ For each call to our API, you need a token. If you do a call without token, you 
 
 For example, try this command:
 
-NOTE: the following commands make use of [the HTTPie library](https://github.com/jkbrzt/httpie). Make sure it is installed on your system before using it.
+*NOTE: the following commands make use of [the HTTPie library](https://github.com/jkbrzt/httpie). Make sure it is installed on your system before using it.*
 
     http GET http://v2.wallabag.org/api/entries/1.json
 
