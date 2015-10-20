@@ -7,22 +7,22 @@ sortorder: 40
   <div class="progress-bar progress-bar-success" style="width: 95%"></div>
 </div>
 
-* ~~login / logout~~
-* ~~RESTful API~~
-* ~~save a new link~~
-* ~~new design~~
-* ~~mark an article as read, as favorite, delete it~~
-* ~~change configuration (theme, items per page, language)~~
-* ~~change user information (username, name, email, password)~~
-* ~~create new user via config page and via public registration~~
+* login / logout
+* RESTful API
+* save a new link
+* new design
+* mark an article as read, as favorite, delete it
+* change configuration (theme, items per page, language)
+* change user information (username, name, email, password)
+* create new user via config page and via public registration
 * tags
-* ~~edit entry (title, visibility)~~
-* ~~filters on domain name, reading time, creation date, preview picture, etc.~~
-* ~~store articles language~~
-* ~~authentication via oAuth2~~
-* ~~display preview picture of each article~~
-* ~~bookmarklet to add new articles~~
-* ~~two factor authentication~~
+* edit entry (title, visibility)
+* filters on domain name, reading time, creation date, preview picture, etc.
+* store articles language
+* authentication via oAuth2
+* display preview picture of each article
+* bookmarklet to add new articles
+* two factor authentication
 
 ## wallabag v2.0.0
 
@@ -35,8 +35,8 @@ sortorder: 40
 * autocomplete on domain name for filters [#1380](https://github.com/wallabag/wallabag/issues/1380)
 * remove tags from an entry [#1377](https://github.com/wallabag/wallabag/issues/1377)
 * assign multiple tags at once [#1376](https://github.com/wallabag/wallabag/issues/1376)
-* ~~public registration~~
-* ~~oAuth implementation~~ [#795](https://github.com/wallabag/wallabag/issues/795)
+* public registration
+* oAuth implementation [#795](https://github.com/wallabag/wallabag/issues/795)
 * admin interface [#1346](https://github.com/wallabag/wallabag/issues/1346)
 * [deployment] Travis CI job to deploy Framabag with Capistrano
 * entries export (PDF, json, ePub, mobi, txt, html)
@@ -55,8 +55,8 @@ sortorder: 40
 
 * sync read position between web app and clients [#1336](https://github.com/wallabag/wallabag/issues/1336)
 * [API] implement filters [#1313](https://github.com/wallabag/wallabag/issues/1313)
-* ~~store entry language [#1333](https://github.com/wallabag/wallabag/issues/1333)~~
-* ~~[filters] entry language~~
+* store entry language [#1333](https://github.com/wallabag/wallabag/issues/1333)
+* [filters] entry language
 * share entries between users
 * delete my account
 
