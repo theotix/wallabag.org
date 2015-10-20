@@ -23,6 +23,11 @@ sortorder: 40
 * display preview picture of each article
 * bookmarklet to add new articles
 * two factor authentication
+* public registration
+* oAuth implementation [#795](https://github.com/wallabag/wallabag/issues/795)
+* store entry language [#1333](https://github.com/wallabag/wallabag/issues/1333)
+* [filters] entry language
+
 
 ## wallabag v2.0.0
 
@@ -35,8 +40,6 @@ sortorder: 40
 * autocomplete on domain name for filters [#1380](https://github.com/wallabag/wallabag/issues/1380)
 * remove tags from an entry [#1377](https://github.com/wallabag/wallabag/issues/1377)
 * assign multiple tags at once [#1376](https://github.com/wallabag/wallabag/issues/1376)
-* public registration
-* oAuth implementation [#795](https://github.com/wallabag/wallabag/issues/795)
 * admin interface [#1346](https://github.com/wallabag/wallabag/issues/1346)
 * [deployment] Travis CI job to deploy Framabag with Capistrano
 * entries export (PDF, json, ePub, mobi, txt, html)
@@ -55,8 +58,6 @@ sortorder: 40
 
 * sync read position between web app and clients [#1336](https://github.com/wallabag/wallabag/issues/1336)
 * [API] implement filters [#1313](https://github.com/wallabag/wallabag/issues/1313)
-* store entry language [#1333](https://github.com/wallabag/wallabag/issues/1333)
-* [filters] entry language
 * share entries between users
 * delete my account
 
