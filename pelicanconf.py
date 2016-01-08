@@ -7,7 +7,7 @@ SITENAME = u'wallabag'
 
 PATH = 'content'
 
-WARNING_MESSAGE = u'14/09/2015: We are very proud to announce the release of wallabag 2.0.0-alpha <a href="/blog/2015/09/14/wallabag-v2-alpha-finally" class="alert-link">Please read our blog post</a>.'
+WARNING_MESSAGE = u''
 
 TIMEZONE = 'Europe/Paris'
 
