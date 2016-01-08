@@ -43,7 +43,7 @@ Please don't use in production! This is an **unstable** branch, expect many thin
 
 wallabag v2 uses [Symfony2 framework](http://symfony.com).
 
-The only way to install wallabag v2 properly at the moment is to use Composer. To download wallabag, [you can click here]({filename}download.md) or clone the project via git:
+The only way to install wallabag v2 properly at the moment is to use Composer. To download wallabag, [you can click here]({filename}pages/download.md) or clone the project via git:
 
 ```
 git clone https://github.com/wallabag/wallabag.git -b v2
