@@ -5,7 +5,7 @@ tags: v2
 
 Since our last release ([alpha.1]({filename}20160108-wallabag-alpha1-v2.md)), we fixed some bugs and add nice features.  
 
-## wallabag 2.0.0-alpha.1
+## wallabag 2.0.0-alpha.2
 
 User changelog:
 
