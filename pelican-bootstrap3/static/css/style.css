@@ -218,3 +218,7 @@ figure.floatcenter, .align-center {
         font-size: 16px;
     }
 }
+
+.gitter-chat-embed, .gitter-open-chat-button {
+  z-index: 999999;
+}
