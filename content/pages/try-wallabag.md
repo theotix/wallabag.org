@@ -2,15 +2,7 @@ Title: Try wallabag
 exclude: True
 sortorder: 160
 
-We have two demonstration website, one for wallabag 1.9, one for wallabag 2.0 (still in development).
-
-## wallabag 1.9 (stable version)
-
-You can [try this version here](http://demo.wallabag.org).
-
-* login: poche
-* password: poche
-
+As wallabag v2 will be released soon, we provide to you only one demonstration website.
 
 ## wallabag 2.0 (very unstable version)
 
@@ -18,3 +10,5 @@ You can [try this version here](http://v2.wallabag.org).
 
 * login: wallabag
 * password: wallabag
+
+These credentials may have changed, but don't worry: you can create a free account on this platform. Please remind that this website is a demonstration website and the database can be dropped at any time. 
