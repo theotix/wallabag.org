@@ -2,15 +2,6 @@ Title: Download wallabag
 Menulabel: Downloads
 sortorder: 30
 
-## wallabag 1.x (stable branch)
-
-* Last version: **1.9.1** (2015/08/03).
-* [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
-* [Need help about installation?]({filename}support.md)
-
- <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
- (md5 hash: 79269248d038569a49677366dae5eb77)
-
 ## wallabag 2.x (very unstable branch)
 
  * Last version: **2.0.0-alpha.2** (2016/01/22).
@@ -19,6 +10,15 @@ sortorder: 30
 
   <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-alpha.2</a><br />
   (md5 hash: febb71122000c1275ab5c95053dd131e)
+
+## wallabag 1.x (stable branch)
+
+  * Last version: **1.9.1** (2015/08/03).
+  * [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
+  * [Need help about installation?]({filename}support.md)
+
+   <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
+   (md5 hash: 79269248d038569a49677366dae5eb77)
 
 ## Third-party applications
 
