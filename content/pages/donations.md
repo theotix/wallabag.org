@@ -15,6 +15,9 @@ You can have a look [to the donations archive]({filename}donations-archive.md).
   <a href="https://flattr.com/thing/1265480" class="list-group-item">
     <h4 class="list-group-item-heading">via Flattr</h4>
   </a>
+  <a href="https://liberapay.com/wallabag/" class="list-group-item">
+    <h4 class="list-group-item-heading">via Liberapay</h4>
+  </a>
   <a href="https://gratipay.com/wallabag/" class="list-group-item">
     <h4 class="list-group-item-heading">via Gratipay</h4>
   </a>
