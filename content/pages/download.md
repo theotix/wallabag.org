@@ -2,7 +2,7 @@ Title: Download wallabag
 Menulabel: Downloads
 sortorder: 30
 
-## wallabag 2.x (very unstable branch)
+## wallabag 2.x (unstable branch)
 
  * Last version: **2.0.0-alpha.2** (2016/01/22).
  * [Blog post about this version]({filename}/20160122-wallabag-alpha2-v2.md)
