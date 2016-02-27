@@ -18,3 +18,5 @@ A merger :
 
     annotations
     création de client pour API
+
+Rappel sur v2.wallabag.org : juste une plateforme de démo, tout peut être supprimé à tout moment
