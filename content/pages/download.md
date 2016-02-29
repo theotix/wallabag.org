@@ -8,7 +8,7 @@ sortorder: 30
  * [Blog post about this version]({filename}/20160301-wallabag-public-beta1.md)
  * [Need help about installation?]({filename}support.md)
 
-  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-alpha.2</a><br />
+  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-beta.1</a><br />
   (md5 hash: ?????????????????)
 
 ## wallabag 1.x (stable branch)

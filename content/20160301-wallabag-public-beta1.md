@@ -35,13 +35,20 @@ If you missed our recent blog posts, here are the main features of wallabag v2:
 * German, French, Turkish, Persian, Romanian, Polish, Danish and English translations
 * Added Quickstart for beginners (when you don't have any entries)
 * maintenance mode (useful when you'll upgrade your wallabag platform)
-* Internal settings for Administrator (the account created during installation). We need to documentate this part of wallabag.
+* Internal settings for administrator (the account created during installation). We need to documentate this part of wallabag.
 
 We have work to do on our API, [you can have a look on this pull request](https://github.com/wallabag/wallabag/pull/1675).
 
 ### What's new since last alpha?
 
-The big feature is the annotations. [Thank you Thomas](https://github.com/tcitworld))!
+* The big feature is the annotations. [Thank you Thomas](https://github.com/tcitworld)!
+* We worked on installation: it's now easier (we removed many parameters to configure during this step) and we check more requirements to facilitate this installation
+* Internal settings for administrator
+* Maintenance mode
+* Turkish, Persian, Romanian, Polish, and Danish translations(thank you to translators)
+* Piwik integration
+
+You can see the full changelog here: [https://github.com/wallabag/wallabag/compare/2.0.0-alpha.2...2.0.0-beta.1](https://github.com/wallabag/wallabag/compare/2.0.0-alpha.2...2.0.0-beta.1).
 
 ### Documentation
 
@@ -66,7 +73,7 @@ Keep in mind it's an **unstable** branch, everything can be broken :)
 If you don't have it yet, please [install composer](https://getcomposer.org/download/). Then you can install wallabag by executing the following commands:
 
 ```
-SYMFONY_ENV=prod composer create-project wallabag/wallabag wallabag "2.0.*@beta" --no-dev
+SYMFONY_ENV=prod composer create-project wallabag/wallabag wallabag "2.0.0-beta.1" --no-dev
 php bin/console wallabag:install --env=prod
 php bin/console server:run --env=prod
 ```
