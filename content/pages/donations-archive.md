@@ -20,7 +20,7 @@ All the amounts below are in euro.
   <tbody>
     <tr>
       <td>412,91</td>
-      <td>529,24</td>
+      <td>544,24</td>
       <td>3,50</td>
       <td>945,65</td>
     </tr>
@@ -42,7 +42,7 @@ All the amounts below are in euro.
   <tr>
    <td>02/2016</td>
    <td>5,98</td>
-   <td>48,89</td>
+   <td>63,89</td>
    <td>N/A</td>
   </tr>
     <tr>
