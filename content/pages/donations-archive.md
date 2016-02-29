@@ -22,7 +22,7 @@ All the amounts below are in euro.
       <td>412,91</td>
       <td>544,24</td>
       <td>3,50</td>
-      <td>945,65</td>
+      <td>960,65</td>
     </tr>
   </tbody>
 </table>

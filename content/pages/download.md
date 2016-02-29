@@ -4,12 +4,12 @@ sortorder: 30
 
 ## wallabag 2.x (unstable branch)
 
- * Last version: **2.0.0-alpha.2** (2016/01/22).
- * [Blog post about this version]({filename}/20160122-wallabag-alpha2-v2.md)
+ * Last version: **2.0.0-beta.1** (2016/03/01).
+ * [Blog post about this version]({filename}/20160301-wallabag-public-beta1.md)
  * [Need help about installation?]({filename}support.md)
 
   <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-alpha.2</a><br />
-  (md5 hash: febb71122000c1275ab5c95053dd131e)
+  (md5 hash: ?????????????????)
 
 ## wallabag 1.x (stable branch)
 
