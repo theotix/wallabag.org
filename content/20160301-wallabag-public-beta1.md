@@ -98,6 +98,6 @@ Don't forget that [you can also support us via Paypal, Flattr, Gratipay or Bount
 
 ## What's next?
 
-We planned to released stable version on 3rd April. In one month. We have lot of work to release this version ([see here our todo list](https://github.com/wallabag/wallabag/milestones/2.0.0)). Maybe we'll release other betas before this deadline (the next version will probably be a Release Canditate, it depends on the quantity of bugs you'll find!).
+We planned to released stable version on 3rd April. In one month. We have lot of work to release this version ([see here our todo list](https://github.com/wallabag/wallabag/milestones/2.0.0)). Maybe we'll release other betas before this deadline (the next version will probably be a Release Candidate, it depends on the quantity of bugs you'll find!).
 
 We need help, feel free to contribute to this great project!
