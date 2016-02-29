@@ -77,6 +77,10 @@ We published this version on [http://v2.wallabag.org](http://v2.wallabag.org) bu
 
 You can create a free account on this platform.
 
+### Need help?
+
+[We are on Gitter](https://gitter.im/wallabag/wallabag) (a chat platform), ping us! You can also open a [new issue on GitHub](https://github.com/wallabag/wallabag/issues/new).
+
 ## How can you help us?
 
 Test, test and test! Install wallabag v2 (see above `On a dedicated web server` chapter) and tell us if you have any problems.
