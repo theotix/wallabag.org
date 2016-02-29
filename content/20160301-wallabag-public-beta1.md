@@ -48,6 +48,8 @@ We have work to do on our API, [you can have a look on this pull request](https:
 * Turkish, Persian, Romanian, Polish, and Danish translations(thank you to translators)
 * Piwik integration
 
+We didn't write database migrations for this first beta, but this feature is planned for next versions.
+
 You can see the full changelog here: [https://github.com/wallabag/wallabag/compare/2.0.0-alpha.2...2.0.0-beta.1](https://github.com/wallabag/wallabag/compare/2.0.0-alpha.2...2.0.0-beta.1).
 
 ### Documentation
@@ -96,6 +98,6 @@ Don't forget that [you can also support us via Paypal, Flattr, Gratipay or Bount
 
 ## What's next?
 
-We planned to released stable version on 3rd April. In one month. We have lot of work to release this version ([see here our todo list](https://github.com/wallabag/wallabag/milestones/2.0.0)). Maybe we'll release other betas before this deadline.
+We planned to released stable version on 3rd April. In one month. We have lot of work to release this version ([see here our todo list](https://github.com/wallabag/wallabag/milestones/2.0.0)). Maybe we'll release other betas before this deadline (the next version will probably be a Release Canditate, it depends on the quantity of bugs you'll find!).
 
 We need help, feel free to contribute to this great project!
