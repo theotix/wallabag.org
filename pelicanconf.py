@@ -7,7 +7,7 @@ SITENAME = u'wallabag'
 
 PATH = 'content'
 
-WARNING_MESSAGE = u'2016/02/20: Roadmap for wallabag v2, <a href="https://www.wallabag.org/blog/2016/02/20/roadmap-wallabag-v2">read this blog post!</a>'
+WARNING_MESSAGE = u'2016/03/01: First beta for wallabag v2 available. <a href="https://www.wallabag.org/blog/2016/03/01/wallabag-public-beta1">Read this blog post!</a>'
 
 TIMEZONE = 'Europe/Paris'
 
