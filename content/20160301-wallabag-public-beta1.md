@@ -4,6 +4,7 @@ title: First public beta for wallabag v2
 tags: v2
 
 Last week, [we published our roadmap]({filename}/20160220-roadmap-wallabag-v2.md) for this year:
+
 * wallabag v2.0.0-beta.1 on 1st March
 * wallabag v2.0.0 on 3rd April
 * wallabag v2.2.0 on 3rd October
