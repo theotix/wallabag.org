@@ -92,7 +92,7 @@ The default configuration uses SQLite for the database. If you want to change th
 **Warning:** With this package, wallabag don't check mandatory extensions used in the application (theses checks are made during `composer create-project` when you have a dedicated web server, see above).  
 **[Please read our installation documentation to see requirements](http://doc.wallabag.org/en/v2/user/installation.html)**.
 
-* Download this file here: 
+* Download this file here: [http://wllbg.org/latest-v2-package](http://wllbg.org/latest-v2-package)
 * Extract it (`tar xvf wallabag-2.0.0-beta.1.tar.gz`)
 * In your wallabag folder, run `php bin/console wallabag:install --env=prod`
 * Run `php bin/console server:run --env=prod`
