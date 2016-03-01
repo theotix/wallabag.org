@@ -19,10 +19,10 @@ All the amounts below are in euro.
   </thead>
   <tbody>
     <tr>
-      <td>347,53 (~673 donations)</td>
-      <td>460,35 (45 donations)</td>
-      <td>3,50 (1 donation)</td>
-      <td>730,93</td>
+      <td>412,91</td>
+      <td>544,24</td>
+      <td>3,50</td>
+      <td>960,65</td>
     </tr>
   </tbody>
 </table>
@@ -39,21 +39,33 @@ All the amounts below are in euro.
     </tr>
   </thead>
   <tbody>
+  <tr>
+   <td>02/2016</td>
+   <td>5,98</td>
+   <td>63,89</td>
+   <td>N/A</td>
+  </tr>
+    <tr>
+     <td>01/2016</td>
+     <td>29,29</td>
+     <td>N/A</td>
+     <td>N/A</td>
+    </tr>
     <tr>
      <td>12/2015</td>
-     <td>7,57</td>
-     <td>20</td>
+     <td>7,56</td>
+     <td>40</td>
      <td>N/A</td>
    </tr>
     <tr>
      <td>11/2015</td>
-     <td>N/A</td>
+     <td>9,02</td>
      <td>40</td>
      <td>N/A</td>
    </tr>  
     <tr>
        <td>10/2015</td>
-       <td>12.88</td>
+       <td>12,87</td>
        <td>N/A</td>
        <td>N/A</td>
      </tr>
@@ -65,25 +77,25 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>08/2015</td>
-      <td>14,75</td>
+      <td>14,74</td>
       <td>42,39</td>
       <td>3,50</td>
     </tr>
     <tr>
       <td>07/2015</td>
-      <td>7,79</td>
+      <td>7,78</td>
       <td>0</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>06/2015</td>
-      <td>17,35</td>
+      <td>17,34</td>
       <td>4,58</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>05/2015</td>
-      <td>12,36</td>
+      <td>12,35</td>
       <td>29,05</td>
       <td>N/A</td>
     </tr>
@@ -95,19 +107,19 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>03/2015</td>
-      <td>15,52</td>
+      <td>15,51</td>
       <td>0,70</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>02/2015</td>
-      <td>15,75</td>
+      <td>15,74</td>
       <td>47,02</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>01/2015</td>
-      <td>8,60</td>
+      <td>8,59</td>
       <td>20,50</td>
       <td>N/A</td>
     </tr>
@@ -119,13 +131,13 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>11/2014</td>
-      <td>10.93</td>
+      <td>10,92</td>
       <td>0</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>10/2014</td>
-      <td>10.33</td>
+      <td>10,32</td>
       <td>23,4</td>
       <td>N/A</td>
     </tr>
@@ -155,7 +167,7 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>05/2014</td>
-      <td>15,29</td>
+      <td>15,28</td>
       <td>9,16</td>
       <td>N/A</td>
     </tr>
@@ -167,13 +179,13 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>03/2014</td>
-      <td>18,32</td>
+      <td>18,31</td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>02/2014</td>
-      <td>35,45</td>
+      <td>35,44</td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
@@ -197,7 +209,7 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>10/2013</td>
-      <td>16,20</td>
+      <td>16,19</td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
@@ -215,7 +227,7 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>07/2013</td>
-      <td>0,35</td>
+      <td>0,34</td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
@@ -227,7 +239,7 @@ All the amounts below are in euro.
     </tr>
     <tr>
       <td>05/2013</td>
-      <td>3,26</td>
+      <td>3,25</td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>

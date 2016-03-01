@@ -2,16 +2,47 @@ Title: Download wallabag
 Menulabel: Downloads
 sortorder: 30
 
-## wallabag 2.x (unstable branch)
+## wallabag 2.0.0 (beta version)
 
- * Last version: **2.0.0-alpha.2** (2016/01/22).
- * [Blog post about this version]({filename}/20160122-wallabag-alpha2-v2.md)
+ * Last version: **2.0.0-beta.1** (2016/03/01).
+ * [Blog post about this version]({filename}/20160301-wallabag-public-beta1.md)
  * [Need help about installation?]({filename}support.md)
 
-  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-alpha.2</a><br />
-  (md5 hash: febb71122000c1275ab5c95053dd131e)
+  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-beta.1 for dedicated web server</a><br />
+  (md5 hash: `eacc13770eb37f5d5006c1d1fa984dd8`)
+  
+    <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2-package">Download wallabag 2.0.0-beta.1 for shared hosting</a><br />
+  (md5 hash: `fdc51587f5b56c926f5dd3ef9b35daf1`)
+  
+### Installation
 
-## wallabag 1.x (stable branch)
+Keep in mind it's a **beta** branch, don't use it in production. 
+
+### On a dedicated web server
+
+If you don't have it yet, please [install composer](https://getcomposer.org/download/). Then you can install wallabag by executing the following commands:
+
+```
+SYMFONY_ENV=prod composer create-project wallabag/wallabag wallabag "2.0.0-beta.1" --no-dev
+php bin/console wallabag:install --env=prod
+php bin/console server:run --env=prod
+```
+
+### On a shared hosting
+
+We provide you a package, `wallabag-2.0.0-beta.1.tar.gz`, with all dependancies inside.
+
+The default configuration uses SQLite for the database. If you want to change these settings, please edit `app/config/parameters.yml`.
+
+**Warning:** With this package, wallabag don't check mandatory extensions used in the application (theses checks are made during `composer create-project` when you have a dedicated web server, see above).  
+**[Please read our installation documentation to see requirements](http://doc.wallabag.org/en/v2/user/installation.html)**.
+
+* Download this file here: 
+* Extract it (`tar xvf wallabag-2.0.0-beta.1.tar.gz`)
+* In your wallabag folder, run `php bin/console wallabag:install --env=prod`
+* Run `php bin/console server:run --env=prod`
+
+## wallabag 1.9 (stable branch)
 
   * Last version: **1.9.1** (2015/08/03).
   * [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)

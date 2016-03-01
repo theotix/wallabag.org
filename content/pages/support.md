@@ -17,3 +17,11 @@ sortorder: 70
       <div class="panel-footer">Don't forget to have a look to the existing answers, maybe yours is there! <br /><br /><a href="http://support.wallabag.org" class="btn btn-default">Ask your question</a></div>
     </div>
 </div>
+<div class="col-lg-12">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <i class="fa fa-question-circle fa-lg"></i> <strong>Gitter</strong>
+      </div>
+      <div class="panel-footer">Gitter is a chat where we can discuss about wallabag. <br /><br /><a href="https://gitter.im/wallabag/wallabag" class="btn btn-default">Join us!</a></div>
+    </div>
+</div>
