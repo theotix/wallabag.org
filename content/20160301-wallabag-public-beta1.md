@@ -7,6 +7,7 @@ Last week, [we published our roadmap]({filename}/20160220-roadmap-wallabag-v2.md
 
 * wallabag v2.0.0-beta.1 on 1st March
 * wallabag v2.0.0 on 3rd April
+* wallabag v2.1.0 on 3rd July
 * wallabag v2.2.0 on 3rd October
 
 And do you know what? **We are on 1st March**. So, it's the **beta day**!
