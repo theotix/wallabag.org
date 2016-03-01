@@ -69,9 +69,9 @@ Our applications (Firefox / Chrome addons and Android / iOS / Windows Phone) are
 
 ## Test wallabag
 
-### On a dedicated web server
-
 Keep in mind it's a **beta** branch, don't use it in production. 
+
+### On a dedicated web server
 
 If you don't have it yet, please [install composer](https://getcomposer.org/download/). Then you can install wallabag by executing the following commands:
 
