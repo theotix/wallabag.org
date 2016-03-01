@@ -48,7 +48,8 @@ We have work to do on our API, [you can have a look on this pull request](https:
 * Turkish, Persian, Romanian, Polish, and Danish translations (thank you to translators)
 * Piwik integration
 
-We didn't write database migrations for this first beta, but this feature is planned for next versions.
+We didn't write database migrations for this first beta, but this feature is planned for next versions.  
+If you want to upgrade your previous installation, please run this command `bin/console doctrine:schema:update --force`.
 
 You can see the full changelog here: [https://github.com/wallabag/wallabag/compare/2.0.0-alpha.2...2.0.0-beta.1](https://github.com/wallabag/wallabag/compare/2.0.0-alpha.2...2.0.0-beta.1).
 
@@ -79,6 +80,20 @@ SYMFONY_ENV=prod composer create-project wallabag/wallabag wallabag "2.0.0-beta.
 php bin/console wallabag:install --env=prod
 php bin/console server:run --env=prod
 ```
+
+### On a shared hosting
+
+We provide you a package, `wallabag-2.0.0-beta.1.tar.gz`, with all dependancies inside.
+
+The default configuration uses SQLite for the database. If you want to change these settings, please edit `app/config/parameters.yml`.
+
+**Warning:** With this package, wallabag don't check mandatory extensions used in the application (theses checks are made during `composer create-project` when you have a dedicated web server, see above).  
+**[Please read our installation documentation to see requirements](http://doc.wallabag.org/en/v2/user/installation.html)**.
+
+* Download this file here: 
+* Extract it (`tar xvf wallabag-2.0.0-beta.1.tar.gz`)
+* In your wallabag folder, run `php bin/console wallabag:install --env=prod`
+* Run `php bin/console server:run --env=prod`
 
 ### On our demo platform
 
