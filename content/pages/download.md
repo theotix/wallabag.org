@@ -11,7 +11,7 @@ sortorder: 30
   <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0-beta.1 for dedicated web server</a><br />
   (md5 hash: `eacc13770eb37f5d5006c1d1fa984dd8`)
   
-    <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2-package">Download wallabag 2.0.0-beta.1 for shared hosting</a><br />
+  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2-package">Download wallabag 2.0.0-beta.1 for shared hosting</a><br />
   (md5 hash: `fdc51587f5b56c926f5dd3ef9b35daf1`)
   
 ### Installation
