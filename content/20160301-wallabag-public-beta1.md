@@ -45,7 +45,7 @@ We have work to do on our API, [you can have a look on this pull request](https:
 * We worked on installation: it's now easier (we removed many parameters to configure during this step) and we check more requirements to facilitate this installation
 * Internal settings for administrator
 * Maintenance mode
-* Turkish, Persian, Romanian, Polish, and Danish translations(thank you to translators)
+* Turkish, Persian, Romanian, Polish, and Danish translations (thank you to translators)
 * Piwik integration
 
 We didn't write database migrations for this first beta, but this feature is planned for next versions.
@@ -70,7 +70,7 @@ Our applications (Firefox / Chrome addons and Android / iOS / Windows Phone) are
 
 ### On a dedicated web server
 
-Keep in mind it's an **unstable** branch, everything can be broken :)
+Keep in mind it's a **beta** branch, don't use it in production. 
 
 If you don't have it yet, please [install composer](https://getcomposer.org/download/). Then you can install wallabag by executing the following commands:
 
