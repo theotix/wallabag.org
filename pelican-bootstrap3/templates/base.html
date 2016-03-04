@@ -147,7 +147,7 @@
                 </form></span>
               </li>
             {% endif %}
-              <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+              <li><a href="{{ SITEURL }}/blog_index.html"><i class="fa fa-th-list"></i><span class="icon-label">Blog</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -171,7 +171,7 @@
         {% endblock %}
 
         {% if WARNING_MESSAGE %}
-        <div class="alert alert-dismissible alert-success">
+        <div class="alert alert-dismissible alert-success mtop15">
           {{ WARNING_MESSAGE }}
         </div>
         {% endif %}

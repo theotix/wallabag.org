@@ -9,3 +9,11 @@
 .entry-content {
   font-size: 18px;
 }
+
+.entry-content table {
+  width:100%;
+}
+
+.entry-content th, .entry-content td {
+  font-size: 15px;
+}

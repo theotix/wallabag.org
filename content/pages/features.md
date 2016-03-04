@@ -1,4 +1,4 @@
-Title: Features
+Title: Features & screenshots
 sortorder: 20
 
 <div class="col-lg-6">

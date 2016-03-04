@@ -222,3 +222,7 @@ figure.floatcenter, .align-center {
 .gitter-chat-embed, .gitter-open-chat-button {
   z-index: 999999;
 }
+
+.mtop15 {
+  margin-top: 15px;
+}

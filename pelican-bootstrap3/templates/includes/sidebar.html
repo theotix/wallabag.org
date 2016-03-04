@@ -4,36 +4,6 @@
 
 <section class="well well-sm">
     <ul class="list-group list-group-flush">
-        <li class="list-group-item"><h4><i class="fa fa-download fa-lg"></i><span class="icon-label">Downloads</span></h4>
-            <ul class="list-group" id="downloads">
-                <li class="list-group-item">
-                    <a href="{{SITEURL}}/pages/download-wallabag.html">
-                        <i class="fa fa-file-code-o fa-lg"></i> wallabag {{ WALLABAG_VERSION }} ({{ WALLABAG_DATE_RELEASE }})
-                    </a>
-                </li>
-                <li class="list-group-item">
-                    <a href="https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche">
-                        <i class="fa fa-android fa-lg"></i> Android application
-                    </a>
-                </li>
-                <li class="list-group-item">
-                    <a href="https://github.com/wallabag/wallabag-fxos">
-                        <i class="fa fa-firefox fa-lg"></i> Firefox OS application
-                    </a>
-                </li>
-                <li class="list-group-item">
-                    <a href="https://itunes.apple.com/app/wallabag/id828331015?mt=8">
-                        <i class="fa fa-apple fa-lg"></i> iOS application
-                    </a>
-                </li>
-                <li class="list-group-item">
-                    <a href="http://www.windowsphone.com/en-US/store/app/wallabag/d5226cf1-f422-4e00-996c-88e9c5233332">
-                        <i class="fa fa-windows fa-lg"></i> Windows application
-                    </a>
-                </li>
-            </ul>
-        </li>
-
         {% if DISPLAY_RECENT_POSTS_ON_SIDEBAR %}
             {% if RECENT_POST_COUNT is not defined %}
                 {% set RECENT_POST_COUNT = 5 %}
@@ -50,20 +20,6 @@
                 </ul>
             </li>
         {% endif %}
-
-        <li class="list-group-item"><h4><i class="fa fa-envelope fa-lg"></i><span class="icon-label">Contact us</span></h4>
-            <ul class="list-group" id="contactus">
-                <li class="list-group-item">
-                    <a href="mailto:hello@wallabag.org">hello@wallabag.org</a>
-                </li>
-                <li class="list-group-item">
-                    on <a href="https://gitter.im/wallabag/wallabag">Gitter</a>
-                </li>
-                <li class="list-group-item">
-                    on <a href="https://webchat.freenode.net/?channels=#wallabag">IRC</a>
-                </li>
-            </ul>
-        </li>
 
         <li class="list-group-item"><h4><i class="fa fa-envelope fa-lg"></i><span class="icon-label">Follow us</span></h4>
             <ul class="list-group" id="followus">

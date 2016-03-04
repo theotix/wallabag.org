@@ -1,5 +1,5 @@
 Title: Roadmap
-sortorder: 40
+sortorder: 32
 
 Our roadmap is managed on GitHub, you can have a look here: [https://github.com/wallabag/wallabag/milestones](https://github.com/wallabag/wallabag/milestones).
 

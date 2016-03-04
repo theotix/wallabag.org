@@ -3,11 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Nicolas L\u0153uillet'
-SITENAME = u'wallabag'
+SITENAME = u'a self hostable application for saving web pages'
 
 PATH = 'content'
 
-WARNING_MESSAGE = u'2016/03/01: First beta for wallabag v2 available. <a href="https://www.wallabag.org/blog/2016/03/01/wallabag-public-beta1">Read this blog post!</a>'
+WARNING_MESSAGE = u'<strong>2016/03/01: First beta for wallabag v2 available. <a href="https://www.wallabag.org/blog/2016/03/01/wallabag-public-beta1">Read this blog post!</a></strong>'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -18,15 +18,15 @@ ARTICLE_URL = '{slug}'
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'search')
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
-BANNER = 'images/books.jpg'
-BANNER_ALL_PAGES = True
-BANNER_SUBTITLE = u'Click, save, organize, read it when you want'
+#BANNER = 'images/books.jpg'
+#BANNER_ALL_PAGES = False
+#BANNER_SUBTITLE = u'Click, save, organize, read it when you want'
 
 DEFAULT_PAGINATION = 6
 INDEX_SAVE_AS = 'blog_index.html'
 SUMMARY_MAX_LENGTH = None
 THEME = "pelican-bootstrap3"
-BOOTSTRAP_THEME = 'simplex'
+BOOTSTRAP_THEME = 'yeti'
 CUSTOM_CSS = 'extra/css/custom.css'
 
 FAVICON = 'images/favicon.ico'
@@ -44,8 +44,8 @@ HIDE_SITENAME = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
-WALLABAG_VERSION = "1.9.1"
-WALLABAG_DATE_RELEASE = "2015/08/03"
+WALLABAG_VERSION = "2.0.0-beta.1"
+WALLABAG_DATE_RELEASE = "2016/03/01"
 
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
