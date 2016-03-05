@@ -1,7 +1,7 @@
 date: 2016-03-01 08:00:00+00:00
 slug: wallabag-public-beta1
 title: First public beta for wallabag v2
-tags: v2
+tags: v2, release
 
 Last week, [we published our roadmap]({filename}/20160220-roadmap-wallabag-v2.md) for this year:
 
@@ -71,7 +71,7 @@ Our applications (Firefox / Chrome addons and Android / iOS / Windows Phone) are
 
 ## Test wallabag
 
-Keep in mind it's a **beta** branch, don't use it in production. 
+Keep in mind it's a **beta** branch, don't use it in production.
 
 ### On a dedicated web server
 

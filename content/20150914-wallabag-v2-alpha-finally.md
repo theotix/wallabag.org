@@ -1,7 +1,7 @@
 date: 2015-09-14 21:00:00+00:00
 slug: wallabag-v2-alpha-finally
 title: wallabag 2.0.0-alpha, finally
-tags: v2
+tags: v2, release
 
 **wallabag is an open source read-it-later application**.
 

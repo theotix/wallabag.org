@@ -1,6 +1,7 @@
 date: 2015-02-18 20:45:00+00:00
 slug: wallabag-1-9-many-features
 title: wallabag 1.9 is available, so many new features!
+tags: v1, release
 
 Finally. Four months later, here is it. The version 1.9 of wallabag. Of course, we bring up new features, we fixed many bugs, but we have also quite exiting news for the future.
 
@@ -38,9 +39,9 @@ We've got also a lot of improvements, translations updated and diverse bugs corr
 
 ##Register
 
-Oh, wait. I've forgotten something. And it's quite important. There's now new lines in the config file which allow the adminstrator of a wallabag server to enable public registration. 
+Oh, wait. I've forgotten something. And it's quite important. There's now new lines in the config file which allow the adminstrator of a wallabag server to enable public registration.
 
-You read that right. 
+You read that right.
 
 If you want to share your instance with someone else, no need to create him an account yourself.
 

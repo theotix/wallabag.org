@@ -1,9 +1,9 @@
 date: 2016-01-08 13:00:00+00:00
 slug: wallabag-alpha1-v2
 title: wallabag 2.0.0-alpha.1 available
-tags: v2
+tags: v2, release
 
-We released our first alpha 4 months ago, and we were on late to release this new one. Sorry for that (but we worked very hard to give you new great features). 
+We released our first alpha 4 months ago, and we were on late to release this new one. Sorry for that (but we worked very hard to give you new great features).
 
 ## wallabag 2.0.0-alpha.1
 
@@ -12,13 +12,13 @@ Features list:
 * Public registration
 * migration from wallabag v1 (based on JSON export)
 * migration from Pocket (it works, but we need to implement asynchronous import: if you have too many articles, it can fail). Documentation still in progress (you'll have a great documentation in next days)
-* exports in many formats (PDF, JSON, EPUB, MOBI, XML, CSV). 
+* exports in many formats (PDF, JSON, EPUB, MOBI, XML, CSV).
 * 2-Factor authentication (via email)
-* Tagging rule: create a rule to automatically assign tags to entries! 
+* Tagging rule: create a rule to automatically assign tags to entries!
 * German / French and English translations
 * some minor fixes
 
-Already implemented: 
+Already implemented:
 
 * a REST API ([you can have a look to the documentation](http://v2.wallabag.org/api/doc))
 * authorization via oAuth2
@@ -57,5 +57,4 @@ php app/console server:run
 
 ## What's next?
 
-We can say that next step will be the first beta of wallabag v2. When? In 2016 :-) ! 
-
+We can say that next step will be the first beta of wallabag v2. When? In 2016 :-) !

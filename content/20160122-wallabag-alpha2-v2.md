@@ -1,7 +1,7 @@
 date: 2016-01-22 13:00:00+00:00
 slug: wallabag-alpha2-v2
 title: wallabag 2.0.0-alpha.2 available
-tags: v2
+tags: v2, release
 
 Since our last release ([alpha.1]({filename}20160108-wallabag-alpha1-v2.md)), we fixed some bugs and add nice features.  
 
@@ -12,17 +12,17 @@ User changelog:
 * Added Quickstart for beginners (when you don't have any entries)
 * Added import link on Baggy theme
 * Fixed Mark as read / Mark as unread links
-* Fixed "Tags are not deleted when you delete an entry" #1453 
-* Added HTML emails 
+* Fixed "Tags are not deleted when you delete an entry" #1453
+* Added HTML emails
 * some fixed and cleanups
 
 Technical changelog:
 
 * Added Doctrine migrations
-* Added Docker configuration 
+* Added Docker configuration
 * Upgraded wallabag to Symfony3
 
-Already implemented: 
+Already implemented:
 
 * a REST API ([you can have a look to the documentation](http://v2.wallabag.org/api/doc))
 * authorization via oAuth2
@@ -38,9 +38,9 @@ Already implemented:
 * Public registration
 * migration from wallabag v1 (based on JSON export)
 * migration from Pocket (it works, but we need to implement asynchronous import: if you have too many articles, it can fail). Documentation still in progress (you'll have a great documentation in next days)
-* exports in many formats (PDF, JSON, EPUB, MOBI, XML, CSV). 
+* exports in many formats (PDF, JSON, EPUB, MOBI, XML, CSV).
 * 2-Factor authentication (via email)
-* Tagging rule: create a rule to automatically assign tags to entries! 
+* Tagging rule: create a rule to automatically assign tags to entries!
 * German / French and English translations
 
 ## Testing wallabag 2.0.0-alpha.2
