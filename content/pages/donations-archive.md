@@ -20,9 +20,9 @@ All the amounts below are in euro.
   <tbody>
     <tr>
       <td>412,91</td>
-      <td>554,24</td>
+      <td>564,24</td>
       <td>3,50</td>
-      <td>970,65</td>
+      <td>980,65</td>
     </tr>
   </tbody>
 </table>
