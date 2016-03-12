@@ -7,7 +7,7 @@ SITENAME = u'a self hostable application for saving web pages'
 
 PATH = 'content'
 
-WARNING_MESSAGE = u'<strong>2016/03/01: First beta for wallabag v2 available. <a href="https://www.wallabag.org/blog/2016/03/01/wallabag-public-beta1">Read this blog post!</a></strong>'
+WARNING_MESSAGE = u'<strong>2016/03/12: <a href="https://www.wallabag.org/blog/2016/03/12/wallabag-public-beta2">Download wallabag v2 beta2 here!</a></strong>'
 
 TIMEZONE = 'Europe/Paris'
 
