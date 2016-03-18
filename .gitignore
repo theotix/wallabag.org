@@ -13,3 +13,5 @@ fabfile.py
 include/
 lib/
 Makefile
+pelican.pid
+srv.pid
