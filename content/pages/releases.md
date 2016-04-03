@@ -5,6 +5,7 @@ Here is the list of all wallabag stable releases. Please don't use old releases,
 
 |  version      |      date     |     changelog                           |
 |---------------|---------------|-----------------------------------------|
+| **2.0.0**     |**2016-04-03** | [blog post](https://www.wallabag.org/blog/2016/04/03/wallabag-v2)    |
 | 2.0.0-beta.2  | 2016-03-12    | [blog post](https://www.wallabag.org/blog/2016/03/12/wallabag-public-beta2)     |
 | 2.0.0-beta.1  | 2016-03-01    | [blog post](https://www.wallabag.org/blog/2016/03/01/wallabag-public-beta1)     |
 | 2.0.0-alpha.2 | 2016-01-22    | [blog post](https://www.wallabag.org/blog/2016/01/22/wallabag-alpha2-v2)|

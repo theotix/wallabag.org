@@ -7,7 +7,7 @@ SITENAME = u'a self hostable application for saving web pages'
 
 PATH = 'content'
 
-WARNING_MESSAGE = u'<strong>2016/03/12: <a href="https://www.wallabag.org/blog/2016/03/12/wallabag-public-beta2">Download wallabag v2 beta2 here!</a></strong>'
+WARNING_MESSAGE = u'<strong>2016/04/03: <a href="https://www.wallabag.org/blog/2016/04/03/wallabag-v2">wallabag v2 available! Download it here.</a></strong>'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -44,8 +44,8 @@ HIDE_SITENAME = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
-WALLABAG_VERSION = "2.0.0-beta.1"
-WALLABAG_DATE_RELEASE = "2016/03/01"
+WALLABAG_VERSION = "2.0.0"
+WALLABAG_DATE_RELEASE = "2016/04/03"
 
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
