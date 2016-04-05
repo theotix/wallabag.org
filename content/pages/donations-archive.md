@@ -18,11 +18,11 @@ All the amounts below are in euro.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>426,73</td>
-      <td>725,32</td>
-      <td>3,50</td>
-      <td>1155,55</td>
+    <tr class="success">
+      <td><strong>426,73</strong></td>
+      <td><strong>730,32</strong></td>
+      <td><strong>3,50</strong></td>
+      <td><strong>1160,55</strong></td>
     </tr>
   </tbody>
 </table>
@@ -39,6 +39,12 @@ All the amounts below are in euro.
     </tr>
   </thead>
   <tbody>
+  <tr>
+   <td>04/2016</td>
+   <td>N/A</td>
+   <td>5,00</td>
+   <td>N/A</td>
+  </tr>
   <tr>
    <td>03/2016</td>
    <td>13,82</td>

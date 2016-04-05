@@ -1,5 +1,5 @@
 Title: Donations
-Menulabel: Donate
+Menulabel: Help us
 sortorder: 50
 
 Because this project take so much time (development, support, maintenance, etc.) and because we also need money (domain names, emailing, etc.), you can thank us with a donation.

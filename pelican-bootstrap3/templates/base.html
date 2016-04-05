@@ -111,21 +111,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="{{ SITEURL }}/" class="navbar-brand">
-                {% if SITELOGO %}<img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/> {% endif %}
-                {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
-            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="/"><i class="fa fa-home"></i> Homepage</a></li>
+                <li><a href="/" title="Homepage"><i class="fa fa-home"></i></a></li>
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in PAGES|sort(attribute='sortorder') %}
                         {% if not p.exclude %}
-                         <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
+                         <li{% if p == page %} class="active"{% endif %}><a href="{% if p.menuurl %}{{ p.menuurl }}{% else %}{{ SITEURL }}/{{ p.url }}{% endif %}">
                              {{ p.menulabel|default(p.title) }}
                           </a></li>
                         {% endif %}
@@ -138,7 +134,6 @@
                         </li>
                     {% endfor %}
                 {% endif %}
-                <li><a href="http://wallabag.spreadshirt.fr/en">Shop</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
             {% if 'tipue_search' in PLUGINS %}

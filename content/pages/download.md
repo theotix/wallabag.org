@@ -2,7 +2,7 @@ Title: Download wallabag
 Menulabel: Downloads
 sortorder: 30
 
-## wallabag 2.0.0
+## wallabag 2
 
  * Last version: **2.0.0** (2016/04/03).
  * [Blog post about this version]({filename}/20160403-wallabag-v2.md)
@@ -45,14 +45,14 @@ We already created a user (login and password are `wallabag`). This user is only
 * [Read this documentation to create your virtual host](http://doc.wallabag.org/en/v2/user/installation.html#installing-on-apache)
 * If you changed the database configuration to use MySQL or PostgreSQL, you need to create a user via this command `php bin/console wallabag:install --env=prod`.
 
-## wallabag 1.9
+## wallabag 1
 
   * Last version: **1.9.1** (2015/08/03).
   * [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
   * [Need help about installation?]({filename}support.md)
 
    <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
-   (md5 hash: 79269248d038569a49677366dae5eb77)
+   (md5 hash: `79269248d038569a49677366dae5eb77`)
 
 ## Third-party applications
 

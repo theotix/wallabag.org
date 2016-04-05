@@ -7,7 +7,7 @@ SITENAME = u'a self hostable application for saving web pages'
 
 PATH = 'content'
 
-WARNING_MESSAGE = u'<strong>2016/04/03: <a href="https://www.wallabag.org/blog/2016/04/03/wallabag-v2">wallabag v2 available! Download it here.</a></strong>'
+#WARNING_MESSAGE = u'<strong>2016/04/03: <a href="https://www.wallabag.org/blog/2016/04/03/wallabag-v2">wallabag v2 available! Download it here.</a></strong>'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -26,17 +26,18 @@ DEFAULT_PAGINATION = 6
 INDEX_SAVE_AS = 'blog_index.html'
 SUMMARY_MAX_LENGTH = None
 THEME = "pelican-bootstrap3"
-BOOTSTRAP_THEME = 'yeti'
+BOOTSTRAP_THEME = 'cosmo'
 CUSTOM_CSS = 'extra/css/custom.css'
+RECENT_POST_COUNT = 3
+
+#BOOTSTRAP_NAVBAR_INVERSE = True
+USE_PAGER = True
 
 FAVICON = 'images/favicon.ico'
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DISPLAY_TAGS_ON_SIDEBAR = False
-TAG_CLOUD_STEPS = 4
-TAG_CLOUD_MAX_ITEMS = 10
-DISPLAY_TAGS_INLINE = True
 
 MIT_LICENSE = True
 
@@ -44,8 +45,7 @@ HIDE_SITENAME = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
-WALLABAG_VERSION = "2.0.0"
-WALLABAG_DATE_RELEASE = "2016/04/03"
+# Revoir la 404 pour insérer quelques liens 
 
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
