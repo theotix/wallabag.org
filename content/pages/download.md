@@ -40,7 +40,7 @@ We already created a user (login and password are `wallabag`). This user is only
 **Warning:** With this package, wallabag don't check mandatory extensions used in the application (theses checks are made during `composer install` when you have a dedicated web server, see above).  
 **[Please read our installation documentation to see requirements](http://doc.wallabag.org/en/v2/user/installation.html)**.
 
-* Download this file here: http://wllbg.org/latest-v2-package
+* Download this file here: [http://wllbg.org/latest-v2-package](http://wllbg.org/latest-v2-package)
 * Extract it (`tar xvf wallabag-2.0.0.tar.gz`)
 * [Read this documentation to create your virtual host](http://doc.wallabag.org/en/v2/user/installation.html#installing-on-apache)
 * If you changed the database configuration to use MySQL or PostgreSQL, you need to create a user via this command `php bin/console wallabag:install --env=prod`.
