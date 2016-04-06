@@ -2,23 +2,15 @@ Title: Download wallabag
 Menulabel: Downloads
 sortorder: 30
 
-## wallabag 2
-
  * Last version: **2.0.0** (2016/04/03).
  * [Blog post about this version]({filename}/20160403-wallabag-v2.md)
  * [Need help about installation?]({filename}support.md)
+ * [<i class="fa fa-github fa-lg"></i> Source code](https://github.com/wallabag/wallabag)
 
-  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2">Download wallabag 2.0.0 for dedicated web server</a><br />
-  (md5 hash: `2bd5a253814c282c4dfce08419e45f7c`)
+## Installation on a dedicated web server (recommended way)
 
-  <a class="btn btn-info btn-lg" href="http://wllbg.org/latest-v2-package">Download wallabag 2.0.0 for shared hosting</a><br />
-  (md5 hash: `62c629d1803a159282dd3065deea9f3a`)
-
-### Installation
-
-#### On a dedicated web server
-
-If you don't have it yet, please [install composer](https://getcomposer.org/download/) and git. Then you can install wallabag by executing the following commands:
+If you don't have it yet, please [install composer](https://getcomposer.org/download/) and git.  
+Then you can install wallabag by executing the following commands:
 
 ```
 git clone https://github.com/wallabag/wallabag.git
@@ -26,48 +18,129 @@ cd wallabag
 git checkout 2.0.0
 SYMFONY_ENV=prod composer install --no-dev -o --prefer-dist
 php bin/console wallabag:install --env=prod
-php bin/console server:run --env=prod
 ```
+[Read this documentation to create your virtual host](http://doc.wallabag.org/en/v2/user/installation.html#installing-on-apache).
 
-#### On a shared hosting
+## Installation on a shared hosting
 
-We provide you a package, `wallabag-2.0.0.tar.gz`, with all dependancies inside.
-
+We provide you a package with all dependancies inside.  
 The default configuration uses SQLite for the database. If you want to change these settings, please edit `app/config/parameters.yml`.
 
-We already created a user (login and password are `wallabag`). This user is only available if you use SQLite database.
+We already created a user: login and password are `wallabag`.
 
-**Warning:** With this package, wallabag don't check mandatory extensions used in the application (theses checks are made during `composer install` when you have a dedicated web server, see above).  
-**[Please read our installation documentation to see requirements](http://doc.wallabag.org/en/v2/user/installation.html)**.
+<div class="alert alert-warning" markdown="1">
+  <p>With this package, wallabag don't check mandatory extensions used in the application (theses checks are made during `composer install` when you have a dedicated web server, see above).  
+  **[Please read our installation documentation to see requirements](http://doc.wallabag.org/en/v2/user/installation.html)**.</p>
+</div>
 
-* Download this file here: [http://wllbg.org/latest-v2-package](http://wllbg.org/latest-v2-package)
-* Extract it (`tar xvf wallabag-2.0.0.tar.gz`)
-* [Read this documentation to create your virtual host](http://doc.wallabag.org/en/v2/user/installation.html#installing-on-apache)
-* If you changed the database configuration to use MySQL or PostgreSQL, you need to create a user via this command `php bin/console wallabag:install --env=prod`.
+Execute this command to download and extract the latest package: 
+
+```
+wget http://wllbg.org/latest-v2-package && tar xvf latest-v2-package
+```
+
+<small>(md5 hash of the package: `62c629d1803a159282dd3065deea9f3a`)</small>
+
+[Read this documentation to create your virtual host](http://doc.wallabag.org/en/v2/user/installation.html#installing-on-apache).  
+If you changed the database configuration to use MySQL or PostgreSQL, you need to create a user via this command `php bin/console wallabag:install --env=prod`.
 
 ## wallabag 1
 
   * Last version: **1.9.1** (2015/08/03).
   * [Blog post about this version]({filename}/20150803-wallabag-v1.9.1-released.md)
   * [Need help about installation?]({filename}support.md)
+ * [<i class="fa fa-github fa-lg"></i> Source code](https://github.com/wallabag/wallabag/tree/master)
 
-   <a class="btn btn-info btn-lg" href="http://wllbg.org/latest">Download wallabag 1.9.1</a><br />
-   (md5 hash: `79269248d038569a49677366dae5eb77`)
+```
+wget http://wllbg.org/latest && unzip latest
+```
+
+<small>(md5 hash of the package: `79269248d038569a49677366dae5eb77`)</small>
 
 ## Third-party applications
 
-* [extension for Firefox](https://addons.mozilla.org/firefox/addon/wallabag/) – developed by Jonathan Gaulupeau.
-You have to add wallabag in your toolbar. Then, just click on this icon to save a new link.  
-*[source code](https://github.com/wallabag/firefox-ext)*
-* [extension for Chrome](https://chrome.google.com/webstore/detail/wallabag/bepdcjnnkglfjehplaogpoonpffbdcdj) – developed by Jonathan Gaulupeau.
-You have to add wallabag in your toolbar. Then, just click on this icon to wallabag a new link.  
-*[source code](https://github.com/wallabag/chrome-ext)*
-* application for FirefoxOS – developed by freddyb.  
-*[source code](https://github.com/wallabag/wallabag-fxos)*
-* application for Android ([f-droid](https://f-droid.org/app/fr.gaulupeau.apps.InThePoche) and [google play](https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche)) – developed by Jonathan Gaulupeau.
-This extension adds a wallabag icon in the share menu.  
-*[source code](https://github.com/wallabag/android-app)*
-* application for [Windows (8+)](http://apps.microsoft.com/windows/app/wallabag/f551b9c4-7346-4509-ae46-c6167c705a30) and [Windows Phone](http://www.windowsphone.com/s?appid=d5226cf1-f422-4e00-996c-88e9c5233332) – developed by Julian Oster.
-*[source code](https://github.com/wallabag/windows-app)*
-* [application for iOS](https://itunes.apple.com/app/wallabag/id828331015?mt=8) – developed by Kevin Meyer.  
-*[source code](https://github.com/wallabag/ios-app)*
+<div class="col-lg-12" markdown="1">
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-firefox fa-lg"></i> <strong>[Firefox](https://addons.mozilla.org/firefox/addon/wallabag-v2/)</strong>  
+          <small>for wallabag v2 only</small>
+        </div>
+        <div class="panel-footer">Developed by Thibaud Dauce.  
+        *[source code](https://github.com/ThibaudDauce/wallabag-firefox)*</div>
+      </div>
+  </div>
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-firefox fa-lg"></i> <strong>[Firefox](https://addons.mozilla.org/firefox/addon/wallabag/)</strong>  
+          <small>for wallabag v1 only</small>
+        </div>
+        <div class="panel-footer">Developed by Jonathan Gaulupeau.  
+        *[source code](https://github.com/wallabag/firefox-ext)*</div>
+      </div>
+  </div>
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-chrome fa-lg"></i> <strong>[Chrome](https://chrome.google.com/webstore/detail/wallabag/bepdcjnnkglfjehplaogpoonpffbdcdj)</strong>
+        </div>
+        <div class="panel-footer">Developed by Jonathan Gaulupeau.  
+        *[source code](https://github.com/wallabag/chrome-ext)*</div>
+      </div>
+  </div>
+</div>
+
+<div class="col-lg-12" markdown="1">
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-firefox fa-lg"></i> <strong>[Firefox OS](https://github.com/wallabag/wallabag-fxos)</strong>
+        </div>
+        <div class="panel-footer">Developed by freddyb.  
+        *[source code](https://github.com/wallabag/wallabag-fxos)*</div>
+      </div>
+  </div>
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-android fa-lg"></i> <strong>Android</strong>  
+  		  <small>[Google Play Store](https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche) or [F-droid](https://f-droid.org/app/fr.gaulupeau.apps.InThePoche)</small>
+        </div>
+        <div class="panel-footer">Developed by Jonathan Gaulupeau.  
+        *[source code](https://github.com/wallabag/android-app)*</div>
+      </div>
+  </div>
+  <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-windows fa-lg"></i> <strong>[Windows Phone](http://apps.microsoft.com/windows/app/wallabag/f551b9c4-7346-4509-ae46-c6167c705a30)</strong>  
+          <small>for wallabag v2 only</small>
+        </div>
+        <div class="panel-footer">Developed by Julian Oster.  
+        *[source code](https://github.com/wallabag/windows-app)*</div>
+      </div>
+  </div>
+</div>
+
+<div class="col-lg-12" markdown="1">
+  <div class="col-lg-6">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-windows fa-lg"></i> <strong>[Windows Phone](http://apps.microsoft.com/windows/app/wallabag/f551b9c4-7346-4509-ae46-c6167c705a30)</strong>  
+          <small>for wallabag v1 only</small>
+        </div>
+        <div class="panel-footer">Developed by Julian Oster.  
+        *[source code](https://github.com/wallabag/windows-app/tree/master)*</div>
+      </div>
+  </div>
+  <div class="col-lg-6">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <i class="fa fa-apple fa-lg"></i> <strong>[iPhone](https://itunes.apple.com/app/wallabag/id828331015?mt=8)</strong>  
+        </div>
+        <div class="panel-footer">Developed by Kevin Meyer.  
+        *[source code](https://github.com/wallabag/ios-app)*</div>
+      </div>
+  </div>
+</div>

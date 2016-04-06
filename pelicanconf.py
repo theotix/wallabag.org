@@ -18,10 +18,6 @@ ARTICLE_URL = '{slug}'
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'search')
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
-#BANNER = 'images/books.jpg'
-#BANNER_ALL_PAGES = False
-#BANNER_SUBTITLE = u'Click, save, organize, read it when you want'
-
 DEFAULT_PAGINATION = 6
 INDEX_SAVE_AS = 'blog_index.html'
 SUMMARY_MAX_LENGTH = None
@@ -30,7 +26,7 @@ BOOTSTRAP_THEME = 'cosmo'
 CUSTOM_CSS = 'extra/css/custom.css'
 RECENT_POST_COUNT = 3
 
-#BOOTSTRAP_NAVBAR_INVERSE = True
+BOOTSTRAP_NAVBAR_INVERSE = True
 USE_PAGER = True
 
 FAVICON = 'images/favicon.ico'
@@ -57,6 +53,9 @@ STATIC_PATHS = [
     ]
 
 TEMPLATE_PAGES = {'extra/404.html': '404.html'}
+
+PATH = 'content'
+ARTICLE_PATHS = ['posts']
 
 EXTRA_PATH_METADATA = {
     'extra/c89a2a203e9a6045dd4df81b6ca20289.txt': {'path': 'c89a2a203e9a6045dd4df81b6ca20289.txt'},

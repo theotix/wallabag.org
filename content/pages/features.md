@@ -79,7 +79,7 @@ sortorder: 20
   </tbody>
 </table>
 
-## Screenshots for v2
+## Screenshots
 
 ![wallabag homepage](/images/screenshots/homepage.png)
 

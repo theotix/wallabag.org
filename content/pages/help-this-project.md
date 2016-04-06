@@ -4,7 +4,7 @@ sortorder: 60
 
 ## Fix bugs and develop features
 
-We work on many projects. The source code of them is hosted on <a href="https://github.com/wallabag"><i class="fa fa-github fa-lg"></i> github</a>.
+We work on many projects. The source code of them is hosted on <a href="https://github.com/wallabag"><i class="fa fa-github fa-lg"></i> GitHub</a>.
 
 For each project, you can have a look to issues and pick the one you want.
 
