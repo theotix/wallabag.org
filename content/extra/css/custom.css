@@ -27,6 +27,10 @@
     font-size: 16px;
 }
 
+#sidebar {
+	margin-top: 102px;
+}
+
 #sidebar h4 {
 	font-weight: 400;
 }
